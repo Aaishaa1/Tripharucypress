@@ -1,0 +1,1 @@
+- Made login more reliable by waiting for redirect
